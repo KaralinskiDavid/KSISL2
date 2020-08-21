@@ -1,0 +1,4 @@
+﻿  Server-UDP.cpp
+D:\4 семестр\КСИС\Lab_2_UDP\Server-UDP\Server-UDP\Server-UDP.cpp(466,6): warning C4101:  iResult: неиспользованная локальная переменная
+D:\4 семестр\КСИС\Lab_2_UDP\Server-UDP\Server-UDP\Server-UDP.cpp(533,14): warning C4101:  server: неиспользованная локальная переменная
+  Server-UDP.vcxproj -> D:\4 семестр\КСИС\Lab_2_UDP\Server-UDP\Debug\Server-UDP.exe

@@ -1,0 +1,6 @@
+﻿  Server-UDP.cpp
+C:\Users\Asus\Desktop\Лабы\KSIS\KSIS_2\Lab_2_UDP\Server-UDP\Server-UDP\Server-UDP.cpp(371,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Desktop\Лабы\KSIS\KSIS_2\Lab_2_UDP\Server-UDP\Server-UDP\Server-UDP.cpp(391,77): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Desktop\Лабы\KSIS\KSIS_2\Lab_2_UDP\Server-UDP\Server-UDP\Server-UDP.cpp(466,6): warning C4101: iResult: неиспользованная локальная переменная
+C:\Users\Asus\Desktop\Лабы\KSIS\KSIS_2\Lab_2_UDP\Server-UDP\Server-UDP\Server-UDP.cpp(533,14): warning C4101: server: неиспользованная локальная переменная
+  Server-UDP.vcxproj -> C:\Users\Asus\Desktop\Лабы\KSIS\KSIS_2\Lab_2_UDP\Server-UDP\x64\Debug\Server-UDP.exe

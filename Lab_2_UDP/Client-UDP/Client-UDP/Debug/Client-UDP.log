@@ -1,0 +1,3 @@
+﻿  Client-UDP.cpp
+D:\4 семестр\КСИС\Lab_2_UDP\Client-UDP\Client-UDP\Client-UDP.cpp(450,16): warning C4244:  инициализация: преобразование "time_t" в "int", возможна потеря данных
+  Client-UDP.vcxproj -> D:\4 семестр\КСИС\Lab_2_UDP\Client-UDP\Debug\Client-UDP.exe

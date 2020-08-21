@@ -1,0 +1,6 @@
+﻿  Client-UDP.cpp
+G:\BSUIR\4 сем\KSIS_2\Lab_2_UDP\Client-UDP\Client-UDP\Client-UDP.cpp(132,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\BSUIR\4 сем\KSIS_2\Lab_2_UDP\Client-UDP\Client-UDP\Client-UDP.cpp(276,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\BSUIR\4 сем\KSIS_2\Lab_2_UDP\Client-UDP\Client-UDP\Client-UDP.cpp(296,77): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+G:\BSUIR\4 сем\KSIS_2\Lab_2_UDP\Client-UDP\Client-UDP\Client-UDP.cpp(450,16): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+  Client-UDP.vcxproj -> G:\BSUIR\4 сем\KSIS_2\Lab_2_UDP\Client-UDP\x64\Debug\Client-UDP.exe
